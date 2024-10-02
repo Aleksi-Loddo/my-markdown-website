@@ -2,14 +2,6 @@
 
 # Welcome to My GitHub Pages Website
 
-Hello! 👋 Welcome to my simple static website built using **GitHub Pages** and **Markdown**.
-
-## About This Website
-
-This website is created as part of an extra assignment to demonstrate the use of **GitHub Flavored Markdown (GFM)** features. You will find various examples of Markdown syntax below.
-
----
-
 ## Markdown Features Used
 
 ### 1. Headings
