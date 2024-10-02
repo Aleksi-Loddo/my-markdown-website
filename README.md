@@ -13,9 +13,9 @@
 
 ### 2.list
 
-  1 first item
-  2 second item
-  3 third item
+  1. first item
+  2. second item
+  3. third item
 
 ### bold and italic text
 
