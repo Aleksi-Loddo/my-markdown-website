@@ -33,4 +33,7 @@ This website is created as part of an extra assignment to demonstrate the use of
 
 ### Links
 
-    [video link](https://www.youtube.com/watch?v=z-zxaKQfW6s)
+[Watch the video on YouTube](https://www.youtube.com/watch?v=z-zxaKQfW6s)
+
+
+    
