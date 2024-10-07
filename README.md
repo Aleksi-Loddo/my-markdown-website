@@ -6,7 +6,7 @@
 
 ### 1. Headings
 
-```markdown
+``` markdown
 # This is an H1 heading
 ## This is an H2 heading
 ### This is an H3 heading
